@@ -1,0 +1,19 @@
+POST http://localhost:5000/api/auth/login
+
+Content-Type: application/json
+
+{
+    "username": "dangnguyen0401@gmail.com",
+    "password": "0401"
+}
+###
+POST http://localhost:5000/api/post/add
+
+Content-Type: application/json
+
+{
+    "title": "Hoc nodeJS",
+    "description": "abc",
+    "url": "google.com",
+    "status": "LEARNING",
+}

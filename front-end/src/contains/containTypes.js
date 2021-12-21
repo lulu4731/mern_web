@@ -1,0 +1,12 @@
+export const USER_LOGIN = 'USER_LOGIN';
+export const ADD_USER = '';
+export const LOCAL_STORAGE_TOKEN_NAME = 'LEARNIT-MERN';
+export const SET_USER = 'SET_USER';
+export const SHOW_POST = 'SHOW_POST';
+export const FETCH_POST = 'FETCH_POST';
+export const ADD_POST = 'ADD_POST';
+export const SHOW_TOAST = 'SHOW_TOAST';
+export const UPDATE_POST = 'UPDATE_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const FIND_POST = 'FIND_POST';
+export const SET_POST = 'SET_POST';
